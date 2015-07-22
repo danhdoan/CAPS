@@ -1,5 +1,6 @@
-/* ButtonAndLED_1.c - Control a LED via a button
-    Press for the first time - Turn on LED
+/* 
+ButtonAndLED_1.c - Control a LED via a button
+    Press for the first time  - Turn on LED
     Press for the second time - Turn off LED
 */
 #include "io430.h"
