@@ -25,5 +25,6 @@ void configureClock() {
   BCSCTL1 = CALBC1_1MHZ;
   DCOCTL = CALDCO_1MHZ;
   
+  // Divide MCLK by a factor of 8
   BCSCTL2 |= DIVM1 | DIVM0;
 }
