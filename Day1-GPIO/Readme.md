@@ -1,3 +1,3 @@
-1. BlinkingLed.c
+1. BlinkingLED.c
 2. ButtonAndLED_1.c
-3. ButtonAndLed_2.c
+3. ButtonAndLED_2.c
